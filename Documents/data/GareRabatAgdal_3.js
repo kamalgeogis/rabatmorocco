@@ -1,0 +1,1 @@
+var json_GareRabatAgdal_3 = {"type":"FeatureCollection","name":"GareRabatAgdal_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nom":"Gare rabat Agdal","X":null,"Y":null,"Info":null},"geometry":{"type":"Point","coordinates":[-6.856837160783968,34.00084742570116]}}]}
